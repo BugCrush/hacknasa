@@ -7,11 +7,11 @@ using namespace std;
 #endif
 
 void f( int i ) {
-	printf("the int is %d\n", i);
+	printf("The integer is %d\n", i);
 }
 
 void f( char * s ) {
-	printf("the pointer is %p\n", s);
+	printf("The pointer value is %p\n", s);
 }
 
 int main( int argc, char ** argv ) {
